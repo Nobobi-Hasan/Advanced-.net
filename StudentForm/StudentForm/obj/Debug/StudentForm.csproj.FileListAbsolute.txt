@@ -1,0 +1,158 @@
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.AssemblyReference.cache
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\StudentForm.dll.config
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\StudentForm.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\StudentForm.pdb
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\csc.exe
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\csc.exe.config
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\csc.rsp
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\csi.exe
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\csi.exe.config
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\csi.rsp
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.AppContext.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Collections.Immutable.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Console.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Globalization.Calendars.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.IO.Compression.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.IO.FileSystem.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Net.Http.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Net.Sockets.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Reflection.Metadata.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.ValueTuple.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Xml.XPath.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\vbc.exe
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\vbc.exe.config
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\vbc.rsp
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\VBCSCompiler.exe
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\roslyn\VBCSCompiler.exe.config
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Antlr3.Runtime.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Microsoft.Web.Infrastructure.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Newtonsoft.Json.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Helpers.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Mvc.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Optimization.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Razor.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.WebPages.Deployment.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.WebPages.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.WebPages.Razor.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\WebGrease.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Helpers.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Mvc.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Optimization.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.Razor.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.WebPages.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.WebPages.Deployment.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\System.Web.WebPages.Razor.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Newtonsoft.Json.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Antlr3.Runtime.pdb
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CopyComplete
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\obj\Debug\StudentForm.dll
+D:\Aiub\10th Semesterr\Advanced C#\Mid\Mid Code\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\StudentForm.dll.config
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\StudentForm.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\StudentForm.pdb
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\csc.exe
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\csc.exe.config
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\csc.rsp
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\csi.exe
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\csi.exe.config
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\csi.rsp
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.AppContext.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Console.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Net.Http.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\vbc.exe
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\vbc.exe.config
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\vbc.rsp
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Antlr3.Runtime.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Newtonsoft.Json.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Helpers.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Mvc.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Optimization.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Razor.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.WebPages.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\WebGrease.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Helpers.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Mvc.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Optimization.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.Razor.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.WebPages.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Newtonsoft.Json.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Antlr3.Runtime.pdb
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.AssemblyReference.cache
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.CopyComplete
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\obj\Debug\StudentForm.dll
+C:\Users\Arosh\Desktop\C#\StudentForm\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
