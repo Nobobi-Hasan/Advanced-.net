@@ -5,6 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using ProductForm.Models;
+using System.Web.Script.Serialization;
 
 namespace ProductForm.Controllers
 {
@@ -83,6 +84,53 @@ namespace ProductForm.Controllers
         {
             Database db = new Database();
             db.Products.Delete(p);
+            return RedirectToAction("Index");
+
+        }
+
+
+        [HttpGet]
+        public ActionResult Cart(int id)
+        {
+            List<Product> products = null;
+
+            Database db = new Database();
+            var product = db.Products.Get(id);
+
+            if (Session["cart"] == null)
+            {
+
+                products = new List<Product>();
+                products.Add(product);
+                string json = new JavaScriptSerializer().Serialize(products);
+                Session["cart"] = json;
+            }
+
+            else
+            {
+                var item = Session["cart"];
+                products = new JavaScriptSerializer().Deserialize<List<Product>>((string)item);
+                products.Add(product);
+                string json = new JavaScriptSerializer().Serialize(products);
+                Session["cart"] = json;
+            }
+            return View(products);
+        }
+
+
+        [HttpPost]
+        public ActionResult Cart()
+        {
+            List<Product> products = null;
+            var item = Session["cart"];
+            products = new JavaScriptSerializer().Deserialize<List<Product>>((string)item);
+
+
+            Database db = new Database();
+            db.Orders.AddToCart(products);
+
+            Session["cart"] = null;
+
             return RedirectToAction("Index");
 
         }
