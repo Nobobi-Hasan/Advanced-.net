@@ -1,0 +1,17 @@
+﻿@model ProductForm.Models.Entity.Product
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<form action="/Product/delete" method="post">
+    Id: <input type="number" name="Id" class="form-control" value=@Model.Id readonly>
+    Name: <input type="text" name="Name" class="form-control" value=@Model.Name readonly>
+    Price: <input type="number" name="Price" class="form-control" value=@Model.Price readonly>
+    Quantity:<input type="number" name="Quantity" class="form-control" value=@Model.Quantity readonly>
+    Description:<input type="text" name="Description" class="form-control" value=@Model.Description readonly>
+    <br />
+    <input type="submit" value="Delete" class="btn btn-danger">
+</form>
