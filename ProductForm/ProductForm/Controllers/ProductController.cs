@@ -122,12 +122,15 @@ namespace ProductForm.Controllers
         public ActionResult Cart()
         {
             List<Product> products = null;
+            Customer user = null;
             var item = Session["cart"];
-            products = new JavaScriptSerializer().Deserialize<List<Product>>((string)item);
+            var u = Session["user"];
 
+            products = new JavaScriptSerializer().Deserialize<List<Product>>((string)item);
+            user = new JavaScriptSerializer().Deserialize<Customer>((string)u);
 
             Database db = new Database();
-            db.Orders.AddToCart(products);
+            db.Orders.AddToCart(products, user);
 
             Session["cart"] = null;
 
